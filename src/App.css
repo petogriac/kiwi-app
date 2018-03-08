@@ -35,3 +35,6 @@
   background-color: #13818d !important;
   border-color: #13818d !important;
 }
+.pagination{
+  justify-content: center;
+}
